@@ -1,6 +1,6 @@
 ## ML-Learning
-机器学习-张伟楠 
-个人学习及思考
+
+Introduction to Machine Learning
 
 - Common conceptual differences
   
